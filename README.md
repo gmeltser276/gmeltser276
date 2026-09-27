@@ -2,20 +2,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gmeltser-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gmeltser)
 
-Chief Information Security Officer for the State of Connecticut. I build AI agent tooling for security leadership work: skills, plugins, and MCP servers for Claude Code and Claude Desktop. Everything here comes from daily use.
+Chief Information Security Officer for the State of Connecticut. I build AI agent tooling for security leadership work: skills and plugins for Claude Code. Everything here comes from daily use.
 
 #### Building
 
 - **[CISOTools](https://github.com/gmeltser276/CISOTools)** [![GitHub stars](https://img.shields.io/github/stars/gmeltser276/CISOTools?style=flat&color=gold)](https://github.com/gmeltser276/CISOTools) - A CISO's AI-augmented knowledge system. Obsidian vault plus Claude Code skills, hooks, and templates for meeting prep, committee updates, legislative analysis, and minutes.
 - **[skills](https://github.com/gmeltser276/skills)** [![GitHub stars](https://img.shields.io/github/stars/gmeltser276/skills?style=flat&color=gold)](https://github.com/gmeltser276/skills) - Claude Code plugin marketplace. Install with `/plugin marketplace add gmeltser276/skills`.
-- **[ctdata](https://github.com/gmeltser276/skills/tree/main/plugins/ctdata)** - Query Connecticut's open data portal (data.ct.gov) from Claude Code or Claude Desktop, and look up which agency a state employee works for. Built with [Printing Press](https://github.com/mvanhorn/cli-printing-press). macOS and Windows.
-
-#### Security MCP Servers
-
-- **[falcon-commercial-mcp](https://github.com/gmeltser276/skills/tree/main/plugins/falcon-commercial-mcp)** and **[falcon-gov-mcp](https://github.com/gmeltser276/skills/tree/main/plugins/falcon-gov-mcp)** - CrowdStrike Falcon for the Commercial and GovCloud CIDs.
-- **[tenable-mcp](https://github.com/gmeltser276/skills/tree/main/plugins/tenable-mcp)** - Tenable Vulnerability Management.
-- **[gti-mcp](https://github.com/gmeltser276/skills/tree/main/plugins/gti-mcp)** - Google Threat Intelligence (VirusTotal-backed).
-- **[m365-mcp](https://github.com/gmeltser276/skills/tree/main/plugins/m365-mcp)** - Manage a Microsoft 365 tenant with CLI for Microsoft 365.
 
 #### Skills
 
